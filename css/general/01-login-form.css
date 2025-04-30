@@ -1,0 +1,15 @@
+.nav {
+  margin-bottom: 25px;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 250px;
+  gap: 15px;
+  margin: 0 auto;
+  padding: 25px;
+  border-radius: 15px;
+  border: 1px solid black;
+  background-color: rgb(238, 238, 238);
+}
